@@ -1,0 +1,60 @@
+#buttonStyle {
+  float: right;
+  margin: 10px;
+}
+
+#user-profile {
+  width: 100%;
+  max-width: 550px;
+  margin: 50px auto;
+  border-radius: 5px;
+  text-align: center;
+  overflow: hidden;
+  background: #e9f3ff;
+  padding:20px;
+  box-shadow: 2px 2px 5px #000;
+  border: 0.5px solid #000;
+  font-family: sans-serif;
+
+	hr {
+	
+    margin: 20px auto;
+    width: 100px;
+    border: 1px solid #0039e6;
+    background-color: transparent;
+  }
+  
+  h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+  h3 {
+    font-size: 18px;
+  }
+  
+  h4 {
+    font-size: 16px;
+    
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
+  .top, .bottom {
+    padding: 30px;
+    
+  }
+  
+  .bottom {
+    
+    background-color: rgba(white, 0.3);
+    text-align: left;
+  }
+  
+  
+  }
